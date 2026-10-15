@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,5 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
