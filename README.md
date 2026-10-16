@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
