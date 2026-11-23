@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/DkRajput25/LeetCode-Solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
